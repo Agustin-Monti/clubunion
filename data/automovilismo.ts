@@ -6,14 +6,14 @@ export const categoriasAutomovilismo = [
 ];
 
 export const todosLosPilotos = [
-  // Pilotos de la Clase 1 (según las imágenes)
+  // Pilotos de la Clase 1 con puntos actualizados
   {
     id: 1,
     nombre: "Marco Risso",
     categoria: "clase1",
     numero: "25",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 39, // 1° puesto
     esDelClub: false
   },
   {
@@ -22,8 +22,8 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "81",
     auto: "Clase 1",
-    puntos: 0,
-    esDelClub: true, // ¡Este es el piloto del club!
+    puntos: 34, // 2° puesto
+    esDelClub: true, // ¡Piloto del club!
     foto: "/images/pilotos/mariano-marozzini.jpg"
   },
   {
@@ -32,7 +32,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "57",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 25, // 3° puesto
     esDelClub: false
   },
   {
@@ -41,7 +41,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "8",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 25, // 4° puesto
     esDelClub: false
   },
   {
@@ -50,7 +50,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "6",
     auto: "Clase 1 (S)",
-    puntos: 0,
+    puntos: 23, // 5° puesto
     esDelClub: false
   },
   {
@@ -59,7 +59,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "20",
     auto: "Clase 1 (S)",
-    puntos: 0,
+    puntos: 17, // 8° puesto
     esDelClub: false
   },
   {
@@ -68,7 +68,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "100",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 15, // 11° puesto
     esDelClub: false
   },
   {
@@ -77,7 +77,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "52",
     auto: "Clase 1 (S)",
-    puntos: 0,
+    puntos: 18, // 7° puesto
     esDelClub: false
   },
   {
@@ -86,7 +86,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "19",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 17, // 9° puesto
     esDelClub: false
   },
   {
@@ -95,7 +95,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "118",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 23, // 6° puesto
     esDelClub: false
   },
   {
@@ -104,7 +104,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "1",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 16, // 10° puesto
     esDelClub: false
   },
   {
@@ -113,7 +113,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "28",
     auto: "Clase 1 (S)",
-    puntos: 0,
+    puntos: 9, // 14° puesto
     esDelClub: false
   },
   {
@@ -122,7 +122,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "34",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 8, // 16° puesto
     esDelClub: false
   },
   {
@@ -131,7 +131,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "5",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 16, // 15° puesto
     esDelClub: false
   },
   {
@@ -140,7 +140,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "39",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 14, // 12° puesto
     esDelClub: false
   },
   {
@@ -149,7 +149,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "77",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 12, // 13° puesto
     esDelClub: false
   },
   {
@@ -158,7 +158,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "138",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 6, // 18° puesto
     esDelClub: false
   },
   {
@@ -167,7 +167,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "108",
     auto: "Clase 1 (S)",
-    puntos: 0,
+    puntos: 7, // 17° puesto
     esDelClub: false
   },
   {
@@ -176,7 +176,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "221",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 2, // 21° puesto
     esDelClub: false
   },
   {
@@ -185,16 +185,16 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "22",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 1, // 22° puesto
     esDelClub: false
   },
   {
     id: 21,
     nombre: "Sebastian Braida",
     categoria: "clase1",
-    numero: "99",
+    numero: "66",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 3, // 20° puesto
     esDelClub: false
   },
   {
@@ -203,7 +203,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "88",
     auto: "Clase 1 (S)",
-    puntos: 0,
+    puntos: 0, // 23° puesto
     esDelClub: false
   },
   {
@@ -212,7 +212,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "47",
     auto: "Clase 1",
-    puntos: 0,
+    puntos: 3, // 19° puesto
     esDelClub: false
   }
 ];
