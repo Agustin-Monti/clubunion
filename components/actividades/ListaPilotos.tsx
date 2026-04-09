@@ -94,11 +94,6 @@ export default function ListaPilotos({ pilotos, baseUrl }: ListaPilotosProps) {
                   </div>
                 )}
               </div>
-
-              {/* Posición en el campeonato */}
-              <div className="absolute bottom-2 right-4 text-white font-bold">
-                #{index + 1} en campeonato
-              </div>
             </div>
 
             <div className="pt-12 p-4">
