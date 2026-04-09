@@ -244,7 +244,7 @@ export const calendarioAutomovilismo: {
   },
   {
     id: 2,
-    fecha: "2026-04-12",
+    fecha: "2026-04-26",
     circuito: "C. del Uruguay",
     categoria: "tp",
     estado: "próximo"
