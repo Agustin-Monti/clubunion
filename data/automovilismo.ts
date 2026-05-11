@@ -6,14 +6,13 @@ export const categoriasAutomovilismo = [
 ];
 
 export const todosLosPilotos = [
-  // Pilotos de la Clase 1 con puntos actualizados
   {
     id: 1,
     nombre: "Marco Risso",
     categoria: "clase1",
     numero: "25",
     auto: "Clase 1",
-    puntos: 39, // 1° puesto
+    puntos: 79,
     esDelClub: false
   },
   {
@@ -22,8 +21,8 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "81",
     auto: "Clase 1",
-    puntos: 34, // 2° puesto
-    esDelClub: true, // ¡Piloto del club!
+    puntos: 65,
+    esDelClub: true,
     foto: "/images/pilotos/mariano-marozzini.jpg"
   },
   {
@@ -32,7 +31,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "57",
     auto: "Clase 1",
-    puntos: 25, // 3° puesto
+    puntos: 52,
     esDelClub: false
   },
   {
@@ -41,7 +40,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "8",
     auto: "Clase 1",
-    puntos: 25, // 4° puesto
+    puntos: 42,
     esDelClub: false
   },
   {
@@ -50,7 +49,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "6",
     auto: "Clase 1 (S)",
-    puntos: 23, // 5° puesto
+    puntos: 26,
     esDelClub: false
   },
   {
@@ -59,7 +58,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "20",
     auto: "Clase 1 (S)",
-    puntos: 17, // 8° puesto
+    puntos: 37,
     esDelClub: false
   },
   {
@@ -68,7 +67,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "100",
     auto: "Clase 1",
-    puntos: 15, // 11° puesto
+    puntos: 27,
     esDelClub: false
   },
   {
@@ -77,7 +76,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "52",
     auto: "Clase 1 (S)",
-    puntos: 18, // 7° puesto
+    puntos: 20,
     esDelClub: false
   },
   {
@@ -86,7 +85,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "19",
     auto: "Clase 1",
-    puntos: 17, // 9° puesto
+    puntos: 29,
     esDelClub: false
   },
   {
@@ -95,7 +94,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "118",
     auto: "Clase 1",
-    puntos: 23, // 6° puesto
+    puntos: 59,
     esDelClub: false
   },
   {
@@ -104,7 +103,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "1",
     auto: "Clase 1",
-    puntos: 16, // 10° puesto
+    puntos: 23,
     esDelClub: false
   },
   {
@@ -113,7 +112,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "28",
     auto: "Clase 1 (S)",
-    puntos: 9, // 14° puesto
+    puntos: 9,
     esDelClub: false
   },
   {
@@ -122,7 +121,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "34",
     auto: "Clase 1",
-    puntos: 8, // 16° puesto
+    puntos: 8,
     esDelClub: false
   },
   {
@@ -131,7 +130,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "5",
     auto: "Clase 1",
-    puntos: 16, // 15° puesto
+    puntos: 9,
     esDelClub: false
   },
   {
@@ -140,7 +139,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "39",
     auto: "Clase 1",
-    puntos: 14, // 12° puesto
+    puntos: 28,
     esDelClub: false
   },
   {
@@ -149,7 +148,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "77",
     auto: "Clase 1",
-    puntos: 12, // 13° puesto
+    puntos: 26,
     esDelClub: false
   },
   {
@@ -158,7 +157,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "138",
     auto: "Clase 1",
-    puntos: 6, // 18° puesto
+    puntos: 14,
     esDelClub: false
   },
   {
@@ -167,7 +166,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "108",
     auto: "Clase 1 (S)",
-    puntos: 7, // 17° puesto
+    puntos: 15,
     esDelClub: false
   },
   {
@@ -176,7 +175,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "221",
     auto: "Clase 1",
-    puntos: 2, // 21° puesto
+    puntos: 8,
     esDelClub: false
   },
   {
@@ -185,16 +184,16 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "22",
     auto: "Clase 1",
-    puntos: 1, // 22° puesto
+    puntos: 22,
     esDelClub: false
   },
   {
     id: 21,
     nombre: "Sebastian Braida",
     categoria: "clase1",
-    numero: "66",
+    numero: "99",
     auto: "Clase 1",
-    puntos: 3, // 20° puesto
+    puntos: 3,
     esDelClub: false
   },
   {
@@ -203,7 +202,7 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "88",
     auto: "Clase 1 (S)",
-    puntos: 0, // 23° puesto
+    puntos: 0,
     esDelClub: false
   },
   {
@@ -212,7 +211,25 @@ export const todosLosPilotos = [
     categoria: "clase1",
     numero: "47",
     auto: "Clase 1",
-    puntos: 3, // 19° puesto
+    puntos: 23,
+    esDelClub: false
+  },
+  {
+    id: 24,
+    nombre: "Sergio Beorda",
+    categoria: "clase1",
+    numero: "98",
+    auto: "Clase 1",
+    puntos: 23,
+    esDelClub: false
+  },
+  {
+    id: 25,
+    nombre: "Claudio Lambert",
+    categoria: "clase1",
+    numero: "38",
+    auto: "Clase 1",
+    puntos: 5,
     esDelClub: false
   }
 ];
@@ -246,8 +263,10 @@ export const calendarioAutomovilismo: {
     id: 2,
     fecha: "2026-04-26",
     circuito: "C. del Uruguay",
-    categoria: "tp",
-    estado: "próximo"
+    categoria: "clase1",
+    estado: "completado",
+    ganador: "Marco Risso",
+    tieneResultados: true
   },
   {
     id: 3,
